@@ -1,2 +1,2 @@
-DON'T USE, GO TO https://github.com/joshlynj/RectifyMotorcycles INSTEAD!!!!
-Project 2 SDI 
+DON'T USE THIS REPO!!!!, GO TO https://github.com/joshlynj/RectifyMotorcycles INSTEAD!!!! 
+✨✨✨✨✨
